@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://padma012.github.io/iiif-workshop-test/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in padma012/iiif-workshop-test project"
+        ]
+    },
+    "items": []
+}
